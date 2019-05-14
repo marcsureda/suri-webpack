@@ -1,5 +1,9 @@
 # Change Log
 -----
+## 2.0.0 Change Versions
+* New version for the basis template
+* New version for all the dependences installed via npm
+
 ## 1.1.0 Set the versions
 * Set the versions number
 * Download angular-cli

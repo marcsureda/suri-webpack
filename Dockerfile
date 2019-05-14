@@ -1,7 +1,7 @@
-FROM node:8.11.1
+FROM node:11.15.0
 MAINTAINER Marc Sureda <surikata@gmail.com>
 
-RUN npm install -g webpack@4.7.0 webpack-dev-server@3.1.4 yarn@1.6.0 @angular/cli@6.0.0
+RUN npm install -g webpack@4.31.0 webpack-dev-server@3.3.1 yarn@1.15.2 @angular/cli@7.3.9
 RUN chmod 777 /usr/local/bin/yarn
 
 VOLUME /app
