@@ -1,5 +1,9 @@
 # Change Log
 -----
+## 2.1.0 Change Versions
+* Update the 8 version of angular
+* Add React 16.8
+
 ## 2.0.0 Change Versions
 * New version for the basis template
 * New version for all the dependences installed via npm
